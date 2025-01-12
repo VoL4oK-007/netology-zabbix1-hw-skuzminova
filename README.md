@@ -11,7 +11,7 @@
 6. Прикрепите в файл README.md скриншот авторизации в админке.
 7. Приложите в файл README.md текст использованных команд в GitHub.
 
-	![скрин 1 к заданию 1](https://GitHub/netology-zabbix1-hw-skuzminova/img/zb1.png)
+	![скрин 1 к заданию 1](netology-zabbix1-hw-skuzminova/zb1.png)
 
 	![скрин 2 к заданию 1](https://GitHub/netology-zabbix1-hw-skuzminova/img/zb2.png)
 
